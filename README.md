@@ -83,8 +83,12 @@ I enjoy turning ideas into real products — especially where **AI + software + 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YassineCoder06&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YassineCoder06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://komarev.com/ghpvc/?username=YassineCoder06&color=7AF79A&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=YassineCoder06&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YassineCoder06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
