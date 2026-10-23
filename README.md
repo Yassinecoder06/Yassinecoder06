@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer Student | AI Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&center=true&vCenter=true&width=600&lines=Software+Engineer+Student;AI+%26+ML+Engineer;Software+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&center=true&vCenter=true&width=650&lines=Software+Engineer+Student;AI+%26+ML+Engineer;2x+Hackathon+Winner;Competitive+Programming+Winner" alt="Typing SVG" />
 </div>
 
 <br />
@@ -14,6 +14,9 @@
 Software Engineer student focused on building **AI systems, full-stack apps, and intelligent tools**.
 
 I enjoy turning ideas into real products — especially where **AI + software + scalable systems** meet.
+
+- 🏆 **2x Hackathon Winner**
+- 🥇 **1x Competitive Programming Competition Winner**
 
 ---
 
