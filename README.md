@@ -11,55 +11,11 @@
 
 ## 🧠 About Me
 
-Software Engineering student focused on building **intelligent systems, full-stack applications, and scalable AI architectures**.
+Software Engineering student focused on building **intelligent systems, full-stack applications, and scalable architectures**.
 
-- 🔭 Working on **[Muse](https://github.com/Yassinecoder06/Muse)** (self-hosted AI notes & knowledge graph with RAG) and **[NeuroWeave](https://github.com/Yassinecoder06/NeuroWeave)** (local-first cognitive memory system).
-- 💡 Exploring where **AI agents, vector search (Qdrant), and modern cloud infrastructure (Kubernetes, Docker, Vercel)** meet.
-- ⚡ Dedicated to local-first computing, clean engineering, and building tools that solve real problems.
+- 💡 Exploring where **AI systems, vector search (Qdrant), and scalable cloud infrastructure (Kubernetes, Docker, Vercel)** meet.
+- ⚡ Dedicated to turning ideas into real products — focusing on clean code, local-first computing, and scalable software.
 - 📫 Reach me at: **[yassinejemmali45@gmail.com](mailto:yassinejemmali45@gmail.com)**
-
----
-
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌟 <a href="https://github.com/Yassinecoder06/Muse">Muse</a></h3>
-      <p>Self-hosted AI note and knowledge platform with semantic search (RAG), vector embeddings, and an autonomous companion assistant (Bip).</p>
-      <p><b>Stack:</b> TypeScript · React · Vite · Express · Supabase · Qdrant · Ollama · Flutter</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Yassinecoder06/NeuroWeave">NeuroWeave</a></h3>
-      <p>Local-first cognitive memory engine indexing markdown memories into Supabase Postgres & Qdrant with local Ollama embeddings.</p>
-      <p><b>Stack:</b> TypeScript · Fastify · Supabase · Qdrant · Ollama</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/Yassinecoder06/AudioMatic">AudioMatic</a></h3>
-      <p>AI-assisted music discovery and download ecosystem. Plans downloads via Ollama, handles high-fidelity MP3 conversion with FastAPI, and plays in a sleek mobile UI.</p>
-      <p><b>Stack:</b> Flutter · Dart · Python · FastAPI · Ollama · yt-dlp</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Yassinecoder06/IA_Pitch_Coach">AI Pitch Coach</a></h3>
-      <p>Real-time speech analysis system for startup pitches, providing live clarity scoring, filler-word diagnostics, and local AI voice feedback.</p>
-      <p><b>Stack:</b> Python · Speech-to-Text · Local LLMs · Audio Processing</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/Yassinecoder06/vectors-in-orbit">Vectors in Orbit</a></h3>
-      <p>Context-aware FinCommerce platform leveraging high-dimensional semantic search and vector embeddings.</p>
-      <p><b>Stack:</b> Python · Qdrant · SentenceTransformers · Vector Search</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📻 <a href="https://github.com/Yassinecoder06/JellyMusicDownloderCLI">JellyMusic Downloader</a></h3>
-      <p>AI-powered media pipeline with modern web interface, Ollama prompt resolution, and automated Jellyfin library organization.</p>
-      <p><b>Stack:</b> Python · Ollama · Web UI · Media Pipeline</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -132,10 +88,6 @@ Software Engineering student focused on building **intelligent systems, full-sta
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassineCoder06&color=7AF79A&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=YassineCoder06&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Yassine GitHub Stats" />
