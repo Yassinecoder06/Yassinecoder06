@@ -1,114 +1,171 @@
-<h1 align="center">Yassine Jemmali</h1>
-<h3 align="center">Softwere Engineer Student | AI Engineer</h3>
-
-<br />
+<h1 align="center">Hi there, I'm Yassine Jemmali 👋</h1>
+<h3 align="center">Software Engineering Student | AI & Full-Stack Engineer</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&width=600&lines=AI+Engineer;Software+Builder;ML+Engineer" Computer Science/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=7AF79A&center=true&vCenter=true&width=650&lines=Software+Engineer+Student;AI+%26+ML+Engineer;Full-Stack+%26+Systems+Builder;Cognitive+Memory+%26+RAG+Architect" alt="Typing SVG" />
 </div>
+
+<br />
 
 ---
 
 ## 🧠 About Me
 
-Softwere Engineer student focused on building **AI systems, full-stack apps, and intelligent tools**.
+Software Engineering student focused on building **intelligent systems, full-stack applications, and scalable AI architectures**.
 
-I enjoy turning ideas into real products — especially where **AI + software + scalable systems** meet.
+- 🔭 Working on **[Muse](https://github.com/Yassinecoder06/Muse)** (self-hosted AI notes & knowledge graph with RAG) and **[NeuroWeave](https://github.com/Yassinecoder06/NeuroWeave)** (local-first cognitive memory system).
+- 💡 Exploring where **AI agents, vector search (Qdrant), and modern cloud infrastructure (Kubernetes, Docker, Vercel)** meet.
+- ⚡ Dedicated to local-first computing, clean engineering, and building tools that solve real problems.
+- 📫 Reach me at: **[yassinejemmali45@gmail.com](mailto:yassinejemmali45@gmail.com)**
+
+---
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 <a href="https://github.com/Yassinecoder06/Muse">Muse</a></h3>
+      <p>Self-hosted AI note and knowledge platform with semantic search (RAG), vector embeddings, and an autonomous companion assistant (Bip).</p>
+      <p><b>Stack:</b> TypeScript · React · Vite · Express · Supabase · Qdrant · Ollama · Flutter</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/Yassinecoder06/NeuroWeave">NeuroWeave</a></h3>
+      <p>Local-first cognitive memory engine indexing markdown memories into Supabase Postgres & Qdrant with local Ollama embeddings.</p>
+      <p><b>Stack:</b> TypeScript · Fastify · Supabase · Qdrant · Ollama</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/Yassinecoder06/AudioMatic">AudioMatic</a></h3>
+      <p>AI-assisted music discovery and download ecosystem. Plans downloads via Ollama, handles high-fidelity MP3 conversion with FastAPI, and plays in a sleek mobile UI.</p>
+      <p><b>Stack:</b> Flutter · Dart · Python · FastAPI · Ollama · yt-dlp</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/Yassinecoder06/IA_Pitch_Coach">AI Pitch Coach</a></h3>
+      <p>Real-time speech analysis system for startup pitches, providing live clarity scoring, filler-word diagnostics, and local AI voice feedback.</p>
+      <p><b>Stack:</b> Python · Speech-to-Text · Local LLMs · Audio Processing</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪐 <a href="https://github.com/Yassinecoder06/vectors-in-orbit">Vectors in Orbit</a></h3>
+      <p>Context-aware FinCommerce platform leveraging high-dimensional semantic search and vector embeddings.</p>
+      <p><b>Stack:</b> Python · Qdrant · SentenceTransformers · Vector Search</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📻 <a href="https://github.com/Yassinecoder06/JellyMusicDownloderCLI">JellyMusic Downloader</a></h3>
+      <p>AI-powered media pipeline with modern web interface, Ollama prompt resolution, and automated Jellyfin library organization.</p>
+      <p><b>Stack:</b> Python · Ollama · Web UI · Media Pipeline</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning & Vector Search
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://ollama.com/public/ollama.png" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="80"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/roboflow/0A0A0A" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" title="NumPy" width="60" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" title="Scikit-learn" width="60" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" title="Hugging Face" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://ollama.com/public/ollama.png" alt="Ollama" title="Ollama" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" alt="Qdrant" title="Qdrant" width="60" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/roboflow/6706CE" alt="Roboflow" title="Roboflow" width="55" height="55"/>
 </p>
 
 ---
 
-### 📱 Mobile / Frontend
+### 💻 Programming Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" title="Dart" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" title="C" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" title="PHP" width="55" height="55"/>
 </p>
 
 ---
 
-### ⚙️ Backend / Databases / Cloud
+### 🌐 Frontend & Mobile Development
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="70"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="55" height="55"/>
 </p>
 
 ---
 
-### 💻 Languages
+### ⚙️ Backend, APIs & Databases
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="70"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="70"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" title="Supabase" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="55" height="55"/>
 </p>
 
 ---
 
-### 🧰 Tools & Dev Environment
+### ☁️ DevOps, Cloud & Deployment
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="Cloudflare" title="Cloudflare" width="80" height="50"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="55" height="55"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YassineCoder06&color=7AF79A&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=YassineCoder06&color=7AF79A&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=YassineCoder06&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YassineCoder06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=YassineCoder06&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Yassine GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YassineCoder06&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=YassineCoder06&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Platforms
-
-<p align="center"> <a href="https://www.linkedin.com/in/yassine-jemmali-035b4a3a5" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="70" height="70"/></a> <a href="https://kaggle.com/yassinejemmali42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="70" height="70"/></a>
-
----
-
-## 📫 Contact
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="yassinejemmali45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-7AF79A?style=for-the-badge&logo=gmail" />
+  <a href="https://www.linkedin.com/in/yassine-jemmali-035b4a3a5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://kaggle.com/yassinejemmali42" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="55" height="55"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yassinejemmali45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-7AF79A?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Me" height="45"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⚡ “Building systems that learn, scale, and actually work.”
+  ⚡ <i>“Building systems that learn, scale, and actually work.”</i>
 </p>
